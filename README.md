@@ -1,12 +1,12 @@
 ## Javalin About Route Challenge
 ---
 ### Description
-In this lab you will add an "/about" route to the web app which will contain some information about yourself. 
+In this lab, you will add an "/about" route to the web app which will contain some information about yourself. 
 
 ---
 ### Steps
 1. Similar to the lesson example, add an "/about" route to the code in src -> main -> java -> Main.java file.
-2. In the result section put a little detail about yourself
+2. In the result section, put a little detail about yourself.
 
 ---
 ### Sample Output
