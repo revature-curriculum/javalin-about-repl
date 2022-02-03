@@ -9,5 +9,7 @@ public class Main {
         
         app.get("/", ctx -> ctx.result("Hello World!"));
 
+        app.get("/about", ctx -> ctx.result("Hi I'm Ashoka"));
+
     }
 }
