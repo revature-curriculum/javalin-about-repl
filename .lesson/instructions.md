@@ -1,4 +1,4 @@
-## Javalin About Route Challenge
+## Javalin About Route Lab
 ---
 ### Description
 In this lab, you will add an "/about" route to the web app which will contain some information about yourself. 
