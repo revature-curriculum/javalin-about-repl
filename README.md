@@ -1,4 +1,4 @@
-## Javalin About Route Lab
+## Web Requests and HTTP
 ---
 ### Description
 In this lab, you will add an "/about" route to the web app which will contain some information about yourself. 
